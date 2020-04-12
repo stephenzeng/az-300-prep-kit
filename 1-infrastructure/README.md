@@ -4,7 +4,7 @@
 
 [Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
 
-- [x] __configure diagnostic settings on resources__
+- [ ] __configure diagnostic settings on resources__
 
   - [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
